@@ -1,2 +1,2 @@
 # BBOX-Challenge
-Coding Challenge to implement 
+Python-based implementation for OOP based project 
